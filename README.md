@@ -32,7 +32,7 @@ Debe estar, más o menos, en el centro de la pantalla (no tiene porqué ser exac
 PC: 4000
 
 # IMAGENES
-Si quieres, puedes subir pantallazos y enlazarlos aquí.
+Si quieres, puedes subir pantallazos y enlazarlos aquí. <br>
 ![Actividad 1](/4x8.png)
 ![Actividad 2](/subrayado.png)
 ![Actividad 3](/tuimagen3.png)
